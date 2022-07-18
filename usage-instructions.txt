@@ -1,0 +1,8 @@
+1. copy the swag folder to the desired location.
+2. using command propmt cd into the swag directory.
+3. run npm start and the page should eventually open in a browser at 'http://localhost:3000/'
+4. it should display all the info from swagger.json in a tree format. 
+Any items starting with a '+' have child items you and expand or collapse by clicking on the parent node.
+Any items not starting with a '+' have no children.
+Clicking on a item under the path node will open a text view of that selected path.
+you can click the button above this to return to the full tree view.
