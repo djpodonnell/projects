@@ -6,3 +6,4 @@ Any items starting with a '+' have child items you and expand or collapse by cli
 Any items not starting with a '+' have no children.
 Clicking on a item under the path node will open a text view of that selected path.
 you can click the button above this to return to the full tree view.
+edit
